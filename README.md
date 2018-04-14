@@ -1,2 +1,2 @@
 # pono
-website for http://thephono.com
+website for http://thepono.com
