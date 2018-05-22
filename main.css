@@ -1,7 +1,15 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
 .jumbotron {
-  background-image: url('ocean-floor-tire.jpg');
+  background-image: url('/images/pono-full-color.jpg');
   background-position: center;
   background-size: cover;
   color: white;
   padding-top: 9em;
+}
+
+.jumbotron .display-4 {
+  text-shadow: 1px 1px 2px #234;
+  font-weight: bold;
 }
