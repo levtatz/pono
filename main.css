@@ -1,6 +1,9 @@
+
 body {
   font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
 }
+
 .jumbotron {
   background-image: url('/images/pono-full-color.jpg');
   background-position: center;
@@ -9,7 +12,12 @@ body {
   padding-top: 9em;
 }
 
+.navbar-brand {
+  font-weight: 700;
+  color: #007ac8 !important;
+}
+
 .jumbotron .display-4 {
   text-shadow: 1px 1px 2px #234;
-  font-weight: bold;
+  font-weight: 800;
 }
